@@ -1,0 +1,36 @@
+.bikerz-zone-header-bg{
+    background-color: #264653;
+}
+.bikerz-zone-body-bg{
+    background-color: #FFFFFF;
+}
+
+.btn-bz-primary{
+    color: #FFFFFF;
+    background-color: #E76F51;
+}
+.btn-outline{
+    color: #E76F51;
+    border: 1px solid #E76F51;
+}
+.btn-outline:hover{
+    color: #FFFFFF;
+    background-color: #E76F51;
+}
+.bikerz-zone-text{
+    color: #E76F51;
+}
+.rating-icon{
+    width: 20px;
+}
+.footer-bg{
+    color: #FFFFFF;
+    background-color: #0B0D17;;
+}
+.bz-text-color{
+    color: #FFFFFF;
+    background-color: #0B0D17;;
+}
+.bz-text-color:hover{
+    color: #E76F51;
+}
